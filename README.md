@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **anmolkarki101@gmail.com**
 
-- ⚡ Fun fact **I have a playful side when it comes to coding, I like to challenge myself by interchanging 0s and 1s, it helps me to think outside the box.**
+- ⚡ Fun fact: **I have a playful side when it comes to coding, I like to challenge myself by interchanging 0s and 1s, it helps me to think outside the box.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
