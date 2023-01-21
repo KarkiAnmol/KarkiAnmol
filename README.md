@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karkianmol&label=Profile%20views&color=0e75b6&style=flat" alt="karkianmol" /> </p>
 
-- 🌱 I’m currently learning **Node.js,Express and MongoDB.**
+- 🌱 I’m currently learning **React**
+
+- ✅ I know **Node.js,Express and MongoDB.**
 
 - 📫 How to reach me **anmolkarki101@gmail.com**
 
